@@ -2,7 +2,7 @@
 
 Contributors: John Pereira
 Author URI: https://github.com/john-pereira/
-Theme URI: https://github.com/john-pereira/
+Theme URI: https://github.com/john-pereira/seedwise
 Tags: full-site-editing, editor-style, portfolio, light-box gallery, about timeline
 Requires at least: 6.1
 Requires PHP: 7.4
